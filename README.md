@@ -21,3 +21,5 @@ pip install -r requirements.txt
 ```bash
 python3 jshunter.py
 ```
+
+<img src='preview.png'>
