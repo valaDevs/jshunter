@@ -4,7 +4,7 @@
 ### How to Use ?
 - first clone the repository  
 ```bash
-    git clone
+    git clone https://github.com/valaDevs/jshunter.git
 ```
 
 - then change direcotory
