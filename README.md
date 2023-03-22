@@ -1,5 +1,5 @@
 ## JSHUNTER
-- it's a tool written in python fro extracting javascript files from web applicatins
+- it's a tool written in python for extracting javascript files from web applications
 
 ### How to Use ?
 - first clone the repository  
